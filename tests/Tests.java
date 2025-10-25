@@ -49,7 +49,7 @@ public class Tests {
 
         // Test controller integration (simple)
         count++;
-        WorkoutController controller = WorkoutController.getInstance("AIzaSyDFUMdIN2OoBQbaIHRF9ntV-uVOwfV4tlo");
+        WorkoutController controller = WorkoutController.getInstance("YOUR_API_KEY");
         boolean controllerExists = controller != null;
         if (controllerExists) passed++;
         System.out.println("Controller Instance: " + (controllerExists ? "SUCCESS" : "FAIL"));
