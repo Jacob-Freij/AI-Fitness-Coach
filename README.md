@@ -70,5 +70,6 @@ For any questions or concerns, connect with me @ (https://github.com/Jacob-Freij
 ## Links
 - [Repository](https://github.com/Jacob-Freij/AI-Fitness-Coach)
 
-heres the readme i have so far, i used Java 22, but im sure older version work would you be able to know the earlier version this works on or is it unnecessary?
+
+
 
