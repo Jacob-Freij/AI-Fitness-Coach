@@ -35,9 +35,7 @@ AI-Fitness-Coach is a Java-based application built to help you create personaliz
    cd AI-Fitness-Coach
    ```
 3. Run WorkoutApp.java in the srs/view folder
-   ```bash
-   Program GUI should open, txt file won't be created until program is run for the first time.
-   ```
+   i) Program GUI should open, txt file won\'t be created until program is run for the first time.
 ---
 
 ## Usage
@@ -73,3 +71,4 @@ For any questions or concerns, connect with me @ (https://github.com/Jacob-Freij
 - [Repository](https://github.com/Jacob-Freij/AI-Fitness-Coach)
 
 heres the readme i have so far, i used Java 22, but im sure older version work would you be able to know the earlier version this works on or is it unnecessary?
+
