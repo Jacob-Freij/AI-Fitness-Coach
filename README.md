@@ -1,4 +1,11 @@
+
 # AI-Fitness-Coach
+
+![Java](https://img.shields.io/badge/Java-9D442D?style=for-the-badge)
+![AI](https://img.shields.io/badge/Geminie_2.5_flash-34b4eb?style=for-the-badge)
+![Swing](https://img.shields.io/badge/Java_Swing-4e00cc?style=for-the-badge)
+![Storage](https://img.shields.io/badge/Text_Files-a6a6a6?style=for-the-badge)
+
 
 AI-Fitness-Coach is a Java-based application built to help you create personalized workout plans using artificial intelligence. Powered by the Gemini 2.5 Flash AI model, this application generates workout routines tailored to your experience level, heath conditions (Scoiliosis, Hypertension, Osteoperosis) and preferences. It also has the ability to log your workouts in real-time, offering an intuitive and easy-to-use fitness companion for your journey.
 
@@ -18,6 +25,32 @@ AI-Fitness-Coach is a Java-based application built to help you create personaliz
 - **Storage**: Text Files 
 
 ---
+
+## File Tree
+```
+AI-Fitness-Coach/
+├── controller/
+│   └── WorkoutController.java        
+├── model/
+│   ├── AiClient.java                 
+│   ├── PlanManager.java              
+│   ├── Workout.java                  
+│   ├── WorkoutManager.java           
+│   ├── WorkoutPlan.java              
+├── view/
+│   ├── StartPanel.java               
+│   ├── WorkoutApp.java               
+│   ├── WorkoutPlanPanel.java         
+│   ├── WorkoutTrackerPanel.java      
+├── tests/
+│   ├── Tests.java                    
+├── README.md                         
+├── workouts.txt                      
+├── workout_plan.txt                  
+```
+
+---
+
 
 ## Getting Started
 
@@ -69,6 +102,7 @@ For any questions or concerns, connect with me @ (https://github.com/Jacob-Freij
 
 ## Links
 - [Repository](https://github.com/Jacob-Freij/AI-Fitness-Coach)
+
 
 
 
