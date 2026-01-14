@@ -30,20 +30,23 @@ AI-Fitness-Coach is a Java-based application built to help you create personaliz
 ```
 AI-Fitness-Coach/
 ├── controller/
-│   └── WorkoutController.java        
+│   └── WorkoutController.java
+|      
 ├── model/
 │   ├── AiClient.java                 
 │   ├── PlanManager.java              
 │   ├── Workout.java                  
 │   ├── WorkoutManager.java           
-│   ├── WorkoutPlan.java              
+│   └── WorkoutPlan.java
+|          
 ├── view/
 │   ├── StartPanel.java               
 │   ├── WorkoutApp.java               
 │   ├── WorkoutPlanPanel.java         
-│   ├── WorkoutTrackerPanel.java      
+│   └── WorkoutTrackerPanel.java
+|     
 ├── tests/
-│   ├── Tests.java                    
+│   └── Tests.java                    
 ├── README.md                         
 ├── workouts.txt                      
 ├── workout_plan.txt                  
@@ -102,6 +105,7 @@ For any questions or concerns, connect with me @ (https://github.com/Jacob-Freij
 
 ## Links
 - [Repository](https://github.com/Jacob-Freij/AI-Fitness-Coach)
+
 
 
 
